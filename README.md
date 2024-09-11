@@ -7,20 +7,24 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-box-feedstock
 About r-box
 -----------
 
-Home: https://klmr.me/box/, https://github.com/klmr/box
+Home: https://klmr.me/box/
 
 Package license: MIT
 
 Summary: A modern module system for R. Organise code into hierarchical, composable, reusable modules, and use it effortlessly across projects via a flexible, declarative dependency loading syntax.
+
+Development: https://github.com/klmr/box
 
 About r-box
 -----------
 
-Home: https://klmr.me/box/, https://github.com/klmr/box
+Home: https://klmr.me/box/
 
 Package license: MIT
 
 Summary: A modern module system for R. Organise code into hierarchical, composable, reusable modules, and use it effortlessly across projects via a flexible, declarative dependency loading syntax.
+
+Development: https://github.com/klmr/box
 
 Current build status
 ====================
